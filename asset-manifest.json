@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/intelico/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/intelico/static/js/main.64f0607a.chunk.js",
+    "main.js.map": "/intelico/static/js/main.64f0607a.chunk.js.map",
+    "runtime-main.js": "/intelico/static/js/runtime-main.5aeb8104.js",
+    "runtime-main.js.map": "/intelico/static/js/runtime-main.5aeb8104.js.map",
+    "static/js/2.c5ea1f43.chunk.js": "/intelico/static/js/2.c5ea1f43.chunk.js",
+    "static/js/2.c5ea1f43.chunk.js.map": "/intelico/static/js/2.c5ea1f43.chunk.js.map",
+    "static/js/3.a098452e.chunk.js": "/intelico/static/js/3.a098452e.chunk.js",
+    "static/js/3.a098452e.chunk.js.map": "/intelico/static/js/3.a098452e.chunk.js.map",
+    "index.html": "/intelico/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/intelico/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.c5ea1f43.chunk.js.LICENSE.txt": "/intelico/static/js/2.c5ea1f43.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5aeb8104.js",
+    "static/js/2.c5ea1f43.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.64f0607a.chunk.js"
+  ]
+}
